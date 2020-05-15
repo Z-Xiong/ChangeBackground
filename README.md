@@ -1,3 +1,5 @@
 # Run test image
-cd ChangeBackground
-./ChangeBackground timg.jpeg
+ ```
+>> cd ChangeBackground
+>>  ./ChangeBackground timg.jpeg
+```
